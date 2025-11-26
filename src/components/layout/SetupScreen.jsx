@@ -19,7 +19,7 @@ export function SetupScreen({ onStart }) {
             <span className="text-amber-400">The Unfinished Game</span>
           </h1>
           <p className="text-slate-400 text-sm sm:text-base px-2 leading-relaxed">
-            Every move will generate a unique poetic message powered by AI
+            Every move will generate a unique poetic message
           </p>
         </div>
 
